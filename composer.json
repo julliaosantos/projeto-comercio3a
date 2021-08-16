@@ -1,0 +1,9 @@
+{
+  "name": "julliaosantos/projeto-comercio3a",
+  "description": "",
+  "autoload":(
+    "psr-4": {
+      "src\\*: *src/*"
+    }
+
+}
